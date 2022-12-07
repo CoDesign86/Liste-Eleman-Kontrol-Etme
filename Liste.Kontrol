@@ -1,0 +1,8 @@
+liste = ["istanbul", "izmir", "bursa"]
+
+if "ankara" in liste:
+  print("listede var")
+else:
+  print("listede yok")
+
+#listede ankara olmadığı için false dönecek.
